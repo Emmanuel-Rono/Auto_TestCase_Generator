@@ -22,7 +22,7 @@ This project presents an innovative approach to automating test case generation 
 
 To explore this project:
 
-1. **Clone the Repository**: `git clone https://github.com/your-repo/automated-test-case-generation.git`
+1. **Clone the Repository**: `git clone https://github.com/Emmanuel-Rono/Auto_TestCase_Generator`
 
 2. **Set Up Neo4j AuraDB**: Sign up for [Neo4j AuraDB](https://neo4j.com/product/auradb/) and set up your database instance.
 
@@ -30,4 +30,4 @@ To explore this project:
 
 4. **Run the Application**: Follow the instructions in the repository's README to execute the test case generation process.
 
-For detailed guidance, please refer to the documentation provided in the repository. 
+For detailed guidance, please Contact me 
